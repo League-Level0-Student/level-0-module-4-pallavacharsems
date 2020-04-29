@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 public class SimpleCalculator {
 	public static void main(String[] args) {
-for (int i = 0; i < 100; i++) {
+for (int i = 0; i < 1; ) {
 	
 
 		// 1. Get 2 numbers from the user and convert them to integer.
